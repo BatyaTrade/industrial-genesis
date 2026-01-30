@@ -11,7 +11,7 @@
             "java_major": 17,
             "java_url": "https://github.com/BatyaTrade/industrial-genesis/releases/download/java/OpenJDK17U-jdk_x64_windows_hotspot_17.0.17_10.zip",
             "java_sha256": "",
-            "modpack_url": "https://github.com/BatyaTrade/industrial-genesis/releases/download/v1.0.0/modpack.zip",
+            "modpack_url": "https://github.com/BatyaTrade/industrial-genesis/releases/download/v2.0.0/modpack.zip",
             "changelog": "Первый релиз Industrial Genesis!",
             "file_hash": "",
             "server_ip": ""
